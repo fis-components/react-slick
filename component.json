@@ -6,9 +6,9 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "react-dom": "^0.14.0"
+        "react": "^0.13.0 || ^0.14.0"
     },
-    "version": "0.9.3",
+    "version": "0.10.0",
     "paths": {
         "dist": "."
     }
